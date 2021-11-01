@@ -5,10 +5,10 @@ export default makeStyles(theme => ({
     display: "flex",
     justifyContent: "space-between",
     marginBottom: theme.spacing(4),
-    marginTop: theme.spacing(5),
+    marginTop: theme.spacing(2),
   },
   typo: {
-    color: theme.palette.text.hint,
+    color: theme.palette.text.primary,
   },
   button: {
     boxShadow: theme.customShadows.widget,
