@@ -136,7 +136,7 @@ export default function Header(props) {
           )}
         </IconButton>
         <Typography variant="h6" weight="medium" className={classes.logotype}>
-          Workplace Monitoring
+          Workplace Monitorings
         </Typography>
         <div className={classes.grow} />
         <div
