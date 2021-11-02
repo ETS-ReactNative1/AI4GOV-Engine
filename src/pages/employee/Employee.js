@@ -19,7 +19,7 @@ export default function Dashboard(props) {
   return (
     <>
       <PageTitle 
-        title="Employee" 
+        title="Employees" 
         color="black"
         button={
           <Button
